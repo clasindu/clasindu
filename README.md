@@ -1,14 +1,15 @@
-# Lasindu Rajapaksha 
+# <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f2638513-5e31-4cbf-8733-684e555ee668" /> Lasindu Rajapaksha 
 
-**`Full-Stack Developer with AI/ML`** 
 
+**`Full-Stack Developer with AI/ML`** <br>
 I’m a passionate and self-motivated aspiring full-stack developer.  
-Currently, I’m building real-world projects using **HTML, CSS, and JavaScript** to strengthen my frontend skills.  
+Currently, I’m building projects with HTML, CSS, and JavaScript to grow skills.  
+I’m also learning React.js to design interactive and modern user interfaces.  
+For backend, I’m practicing Java and MySQL to complete the full-stack journey.  
+In addition, I’m exploring Machine Learning with Python to add AI to my work.  
+I enjoy solving problems with code and creating clean, user-friendly solutions.  
 
-I’m also learning **React.js** to create interactive user interfaces and expanding into backend development with **Java** and **MySQL** to become a full-stack developer.  
-In addition, I’m exploring **Machine Learning with Python** to integrate AI into my projects.  
-
-I enjoy solving problems through code and creating clean, user-friendly web applications.  
+  
 
 ---
 
@@ -85,21 +86,16 @@ I enjoy solving problems through code and creating clean, user-friendly web appl
 
 ---
 
+
+
+
+  <br>
+  
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=clasindu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"  
-  />
+| ![Lasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clasindu&show_icons=true&theme=tokyonight) | ![Lasindu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=clasindu&theme=tokyonight) |
+| --- | --- |
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasindu&theme=tokyonight&exclude_repo=clasindu.github.io,clasindunew.github.io,-bookstore_app_1,random_quote_generator,student-enrollment-system,Community_Classroom-Git)  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=clasindu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-  <img 
-      align="left" 
-      alt="Top Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=clasindu&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"  
-  />
-</p>
+
+
