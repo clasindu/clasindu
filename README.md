@@ -95,7 +95,7 @@ I enjoy solving problems with code and creating clean, user-friendly solutions.
 
 | ![Lasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clasindu&show_icons=true&theme=tokyonight) | ![Lasindu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=clasindu&theme=tokyonight) |
 | --- | --- |
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasindu&theme=tokyonight&exclude_repo=clasindu.github.io,clasindunew.github.io,-bookstore_app_1,random_quote_generator,student-enrollment-system,Community_Classroom-Git)  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=clasindu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasindu&theme=tokyonight&count_private=true&cache_seconds=1800)
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clasindu&theme=tokyonight&count_private=true&langs_count=6&layout=compact)|![Github Stars](https://github-readme-stats.vercel.app/api?username=clasindu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 
