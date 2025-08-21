@@ -1,6 +1,7 @@
 # <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f2638513-5e31-4cbf-8733-684e555ee668" /> Lasindu Rajapaksha 
 
 
+
 **<h2>Full-Stack Developer |AI & ML </h2>** 
 I’m a passionate and self-motivated aspiring full-stack developer.  
 Currently, I’m building projects with HTML, CSS, and JavaScript to grow skills.  
